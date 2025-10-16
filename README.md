@@ -58,10 +58,9 @@ The dataset was created using **custom API calls** to fetch:
 ## 🧾 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/powerbi-weather-analytics-dashboard.git
+   git clone https://github.com/surajpathak23/powerbi-weather-analytics-dashboard.git
 
 ---
 ## Contact
-
-* **LinkedIn** ([LinkedIn](https://www.linkedin.com/in/suraj-kumar-2307skp/))
-* **GitHub:** [[GitHub](https://github.com/surajpathak23)]
+📌 *Author: Suraj Kumar*
+🔗 [LinkedIn](https://www.linkedin.com/in/suraj-kumar-2307skp/) | [GitHub](https://github.com/surajpathak23)
