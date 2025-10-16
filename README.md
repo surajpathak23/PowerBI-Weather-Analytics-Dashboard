@@ -51,7 +51,7 @@ The dataset was created using **custom API calls** to fetch:
 ---
 
 ## 🖼 Dashboard Preview
-![Weather Dashboard Screenshot](./weather_dashboard.png)
+![Weather Dashboard Screenshot](https://github.com/surajpathak23/PowerBI-Weather-Analytics-Dashboard/blob/4448653e28a576b20d8fed91780de521c2bc6d6c/img/Weather-Analytics-Dashboard.png)
 
 ---
 
